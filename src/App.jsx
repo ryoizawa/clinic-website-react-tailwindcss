@@ -338,20 +338,6 @@ function App() {
                 </a>
               </h2>
               <br />
-              {/* <LoadScript googleMapsApiKey="AIzaSyCjfvD6yVLEB8sTrWcBYoB7d_jjfvpvN-A">
-                <GoogleMap
-                  mapContainerStyle={containerStyle}
-                  center={center}
-                  zoom={15}
-                >
-                  <Marker position={positionCITICS} label={markerLabelCITICS} />
-                  <InfoWindow position={positionCITICS}>
-                    <div style={divStyle}>
-                      <h1>CITICS</h1>
-                    </div>
-                  </InfoWindow>
-                </GoogleMap>
-              </LoadScript> */}
             </div>
           </div>
           {/* right side */}
